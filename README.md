@@ -8,4 +8,6 @@ This paper shows me how to deal with the collision term in Boltzmann equation.
 
 I derived the fomulars in this marvel paper.
 
-The files will be uploaded before Oct. 15.
+Elsarticle_Planet.pdf	shows the main idea of the derivation. I cannot find the pdf for Goldreich1978 just now. I hope this pdf can make my point. Based on this pdf, I write a paper to describe the planetesimal dynamics, which is rejected by ICARUS.
+
+This pdf reminds me that how lonely I was when I start my astronomy study.
